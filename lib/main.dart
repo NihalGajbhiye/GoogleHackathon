@@ -10,12 +10,11 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: HomePage(),
-      debugShowCheckedModeBanner: false,
       theme: ThemeData(
         brightness: Brightness.light,
         fontFamily: 'Roboto',
-        scaffoldBackgroundColor: Colors.grey.shade900,
-        primaryColor: Colors.blue.shade500
+        scaffoldBackgroundColor: Colors.grey.shade100,
+        primaryColor: Colors.blue.shade100
 
       ),
     );
