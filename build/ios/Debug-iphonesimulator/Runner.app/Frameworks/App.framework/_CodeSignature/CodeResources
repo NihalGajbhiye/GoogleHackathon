@@ -10,11 +10,11 @@
 		</data>
 		<key>flutter_assets/AssetManifest.bin</key>
 		<data>
-		+6Et2C5nd0zD506T3HWt6sYqU5E=
+		oS+bb572uK4J5jByNfLeZFuNSMM=
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		6aDUF3DUGpUVJaKmtPPNM9nrN/8=
+		Tbu68tGpRBP6DNFzYR0ANAeLA/0=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
-		KfTCJx1yw60d54nq95KwteE9KLY=
+		C2dp7qT0roeTXXzI1agFUFgYzHs=
 		</data>
 		<key>flutter_assets/assets/Roboto-Light.ttf</key>
 		<data>
@@ -50,11 +50,15 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		w7DuWwv20KqYtWEPxaxFsmNKX9s=
+		OtOtws+etL5MtMbdGldPlHuG1VA=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
 		P7bb/oR3EhwqCIH1M6LyTuBIWYU=
+		</data>
+		<key>flutter_assets/packages/pay_platform_interface/pubspec.yaml</key>
+		<data>
+		wKcLCjfF/+YQcMJ4gy+HoQCNSRI=
 		</data>
 		<key>flutter_assets/shaders/ink_sparkle.frag</key>
 		<data>
@@ -71,14 +75,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4goTFqddVJoLb/+T05zHtKI0WwCt3Yp0ePeoozxHB3I=
+			8mtLZrUS3mc4tGtyS+FMWdJ3bdr5FN+vOvdA3vwH7xY=
 			</data>
 		</dict>
 		<key>flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0C3FgqO1mG/PjCOjccNCPFHM8InDzXzL8dC0S0Do1dA=
+			zGoizvmTxZzujl3r+XRhTQ8FM3aG8djeEnqMVE4Qfgk=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -92,7 +96,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vX/gkyCxwsojjjrptXaDbThBNEPgMGMeD+1cmiFvyZ4=
+			ZOAF7MGxJZcYA/Ohz759VrM+78jpK8R1Og60hNTTuuo=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/Roboto-Light.ttf</key>
@@ -141,7 +145,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			47uUv1rDTOo6BzzwiaVjeaLa8rKZRUISRmNinKNnrIE=
+			Pj3LcbLEjLzO2ttYrTiG6hPFNbYwT9WHdUn1ujEnldk=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -149,6 +153,13 @@
 			<key>hash2</key>
 			<data>
 			x6NX+tjyECiQtyzbbjyY8U2zoZ7GDbJtE+T+k/dzgI0=
+			</data>
+		</dict>
+		<key>flutter_assets/packages/pay_platform_interface/pubspec.yaml</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rmV1bnI04MzGy/b80cuiSXblPKz7E29WaIbCZI5J3b4=
 			</data>
 		</dict>
 		<key>flutter_assets/shaders/ink_sparkle.frag</key>
