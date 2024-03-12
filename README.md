@@ -4,6 +4,8 @@ CareSync is a groundbreaking healthcare app that harnesses the power of AI to pr
 
 <img width="513" alt="Screenshot 2024-03-08 at 7 13 15 PM" src="https://github.com/NihalGajbhiye/GoogleHackathon/assets/85219483/f65f4e79-1ffd-4225-a8e6-1838c76b1bde">
 
+Demo: https://devpost.com/software/caresync-8vxn3l
+
 ## Key Features:
 
 ### 1. AI-Powered Mental Health Support:
